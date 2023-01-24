@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://github.com/Vaixle/Vaixle/blob/main/header.png" alt="Profile image">
+<h3 align="center">Java Developer</h3>
 
-<!--
-**Vaixle/Vaixle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Vaixle)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Introduction to Java](https://github.com/Vaixle/introductionToJava)
+- 🌱 I’m currently learning Java, Hibernate
+- 📫 How to reach me: petushkovpeter@gmail.com, [Telegram](https://t.me/vaixle)
+- 📄 Know about my expirience: [linkedIn](https://www.linkedin.com/in/petr-petushkov-764850234/)
+- 🌍 I speak Russian (native), English (B1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaixle&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaixle&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaixle&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaixle&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaixle&theme=2077&utcOffset=8)
