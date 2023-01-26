@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Vaixle)
 
-- 🔭 I’m currently working on [Introduction to Java](https://github.com/Vaixle/introductionToJava)
+- 🔭 I’m currently working on [Introduction to Java](https://github.com/Vaixle/introductionToJava) [GoF](https://github.com/Vaixle/GoF)
 - 🌱 I’m currently learning Java, Hibernate
 - 📫 How to reach me: petushkovpeter@gmail.com, [Telegram](https://t.me/vaixle)
 - 📄 Know about my expirience: [linkedIn](https://www.linkedin.com/in/petr-petushkov-764850234/)
