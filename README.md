@@ -1,5 +1,5 @@
 <img src="https://github.com/Vaixle/Vaixle/blob/main/header.png" alt="Profile image">
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Golang Middle Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=Vaixle)
 
